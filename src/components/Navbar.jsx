@@ -12,7 +12,7 @@ const Navbar = () => {
         <div className='logo-container'>
             <Avatar src={icon} size="large" />
             <Typography.Title level={2} className="logo">
-                <Link to="/">CoinStand</Link>
+                <Link to="/">CryptoStand</Link>
             </Typography.Title>
             {/* <Button className='menu-control-container'></Button> ->used for mobile devices to switch between menus */}
         </div>
