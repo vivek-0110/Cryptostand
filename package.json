@@ -2,10 +2,7 @@
   "name": "coinstands",
   "version": "0.1.0",
   "private": true,
-  "engines": {
-    "node": "16.17.0",
-    "npm": "8.19.2"
- },
+  
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
     "@reduxjs/toolkit": "^1.8.6",
